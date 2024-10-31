@@ -1,7 +1,5 @@
-**Título del Juego
-**
-**Aventura en el Bosque
-**
+##Título del Juego: Aventura en el Bosque
+
 Descripción
 Descripción del Proyecto: Aventura en el Bosque es un emocionante juego de rol en C++ donde los jugadores asumen el papel de un aventurero que explora un bosque lleno de sorpresas, enemigos y objetos misteriosos. El objetivo del juego es sobrevivir el mayor tiempo posible, mejorar las estadísticas del personaje a través de la experiencia, recoger objetos que aumenten el ataque y la defensa, y enfrentarse a diversos enemigos en combates estratégicos.
 
